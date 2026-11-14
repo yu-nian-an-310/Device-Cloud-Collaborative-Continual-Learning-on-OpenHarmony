@@ -3,7 +3,7 @@
 ## 1. 项目信息
 
 - 项目名称：开源鸿蒙端云协同持续学习数据增强（Delta-OH）
-- 仓库地址：
+- 仓库地址：https://github.com/yu-nian-an-310/Device-Cloud-Collaborative-Continual-Learning-on-OpenHarmony.git
 - 负责人：陈俊安
 - 首次整理日期：2026-11-14
 
